@@ -1,1 +1,3 @@
-# technical_notes
+# Technical Notes
+
+These are my personal notes.
